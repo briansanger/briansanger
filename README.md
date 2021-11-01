@@ -1,7 +1,7 @@
 ### Hi there, I'm Brian Sanger 👋
 #### I'm a software engineer based near St. Paul, MN, specializing in designing and building exceptional websites, applications and everything inbetween.
 ####  My goal is to always build products that provide user friendly, performant experiences.
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=n0madzer0&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=briansanger&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 Welcome!  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
@@ -12,7 +12,7 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 <!--
-**n0madzer0/n0madzer0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**briansanger/briansanger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
